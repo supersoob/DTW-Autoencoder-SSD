@@ -1,4 +1,4 @@
-### Applicability of Autoencoder-based Sensory Substitution Method using Dynamic Time Warping
+## Applicability of Autoencoder-based Sensory Substitution Method using Dynamic Time Warping
 
 <br/>
 
