@@ -3,8 +3,8 @@
 <br/>
 
 <p align="middle">
-  <img src="/SS_figure1.png" width="100" />
-  <img src="/SS_figure2.png" width="100" /> 
+  <img src="/SS_figure1.png" width="400" />
+  <img src="/SS_figure2.png" width="400" /> 
 </p>
 <br/>
 
